@@ -7,7 +7,7 @@
 3. Double-click `Start.command`. A local browser tab opens. Leave Terminal open while using it.
 4. If Finder won't run the launcher, open Terminal, type `bash ` (with a space), drag `Start.command` onto Terminal, and press Enter.
 
-No ChatGPT account, subscription, API key or internet is required after setup. The app uses real locally installed Icarus Verilog. No hosted simulator iframe is involved. Your source stays on your computer.
+No LLM account, subscription, API key or internet is required after setup. The app uses real locally installed Icarus Verilog. No hosted simulator iframe is involved. Your source stays on your computer.
 
 ## Workflow
 
